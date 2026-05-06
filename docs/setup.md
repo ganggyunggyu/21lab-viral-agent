@@ -26,7 +26,7 @@ Slack 이용자가 `@Codex`를 멘션하면, Codex가 21lab 바이럴 지침을 
 1. GitHub 저장소 `ganggyunggyu/21lab-viral-agent`를 Codex Cloud에서 접근 가능하게 연결한다.
 2. 저장소 루트의 `AGENTS.md`가 21lab 바이럴 지침 원본이다.
 3. Codex Cloud environment가 해당 저장소를 보도록 설정한다.
-4. ChatGPT/Codex 설정에서 Slack 앱을 workspace에 설치한다.
+4. `https://chatgpt.com/codex/settings/connectors`에서 Slack 앱을 workspace에 설치한다.
 5. Slack 채널에 `@Codex`를 추가한다.
 6. Slack에서 다음처럼 테스트한다.
 
