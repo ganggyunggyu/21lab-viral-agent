@@ -6,10 +6,10 @@
 
 - `AGENTS.md`: 21lab 바이럴 에이전트 지침 원본
 - `docs/setup.md`: 공식 `@Codex` Slack 통합 설정 절차
+- `docs/local-codex-slack.md`: 로컬 Codex Slack Bot 운영 방식과 커스텀 스킬 목록
 
 Slack 이용자가 이 지침을 읽은 에이전트와 통신하려면, 이 저장소를 Codex Cloud environment에 연결해야 한다.
 
 권장 저장소:
 
 - `ganggyunggyu/21lab-viral-agent`
-
